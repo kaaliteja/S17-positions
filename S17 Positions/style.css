@@ -1,0 +1,92 @@
+body{
+    background-color:darkolivegreen;
+}
+
+img{
+    width: 200px;
+}
+
+#parvesh{
+    position: relative;
+    left: 110px;
+    z-index: 21;
+}
+
+#hamid{
+    position: relative;
+    left: 220px;
+    z-index: 22;
+}
+
+#mohit{
+    position: relative;
+    left: 310px;
+    z-index: 23;
+}
+
+#pawan{
+    position: relative;
+    z-index: 20;
+}
+
+#nithin{
+    position: relative;
+    right: 110px;
+    z-index: 16;
+}
+
+#sanjeevi{
+    position: relative;
+    right: 210px;
+    z-index: 15;
+}
+
+#sandeep{
+    position: relative;
+    right: 300px;
+    z-index: 14;
+}
+
+#playersDiv{
+    background-color: darkkhaki;
+}
+
+h1{
+    text-align: center;
+    background-color: brown;
+    font-size: 3rem;
+}
+
+
+#TTLogo{
+    position: fixed;
+    width: 200px;
+    top: 0px;
+    right: 0px;
+    z-index: 24;
+}
+
+#sherawat{
+    background-color: darkkhaki;
+    position: sticky;
+    top: 0px;
+}
+
+
+#proKabbadi{
+    width: 600px;
+    height: 600px;
+    background-color: coral;
+    position: relative;
+
+}
+
+
+#teluguTitans{
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+    position: absolute;
+    right: 100px;
+    bottom: 100px;
+}
